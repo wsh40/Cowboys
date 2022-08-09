@@ -1,6 +1,7 @@
 # Cowboys
 
 Introduction
+
 The Dallas Cowboys, a National Football League team owned by Jerry Jones, are the most valuable sports franchise in the world, even when compared to sports teams from different sports, from different countries.  The Cowboys consistently sell over 10,000 more tickets than there are seats that are available at AT&T stadium for every home game.  Economic theory would tell us that without competitive balancing measures taken by the NFL, just based on the size of the franchise, the Cowboys should win nearly every game.  They would have the most funds to spend on coaches, star players, athletic trainers, and facilities.  With such a loyal fanbase, the Cowboys have the largest budget of any sports team in the world.  Thanks to regulation by the NFL, there is more variation in the outcomes of games. I believe, however, that the Cowboys, being the largest sports franchise in the world, would still have a competitive edge even with considerable competitive balancing.  The Cowboys have been on a downward trend, especially considering the 2020 season.
 Graph 1: Season Win Percent from 2016-2020
 
